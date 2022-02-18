@@ -1,6 +1,6 @@
 # SlowRide
 
-When you've enabled a feature flag (for example, with [Flipper](https://github.com/jnunemaker/flipper) or [LaunchDarkly](https://launchdarkly.com)), what often follows is that a human being has to pay attention to error rates or, at the very least, respond to alerts about an increase in those error rates.
+When you've enabled a feature flag (for example, with [Flipper](https://github.com/jnunemaker/flipper) or [LaunchDarkly](https://launchdarkly.com)), what often follows is that a human being has to pay attention to error rates or, at the very least, respond to alerts about an increase in those error rates. But a human response to that takes time. SlowRide gives you a way to automate detection of whether that feature flag is the problem and disable it without human intervention.
 
 With SlowRide, you can take it easy.
 
